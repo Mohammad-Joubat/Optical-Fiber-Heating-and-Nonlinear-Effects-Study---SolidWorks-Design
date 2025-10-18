@@ -8,4 +8,4 @@ This project involves the design of a physical system using SolidWorks (CAD) sof
 The designed structure is intended to house and insulate the experiment area. The central component is the Winding Spool/Screw, which was engineered to allow precise coiling of the fiber at a uniform density, while maintaining the ability to effectively heat the coiled fiber. The optical fiber used is a Multi-Mode Fiber.
 
 
-![1]()
+![1](https://github.com/Mohammad-Joubat/Optical-Fiber-Heating-and-Nonlinear-Effects-Study---SolidWorks-Design/blob/main/pic5.png)
